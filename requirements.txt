@@ -1,5 +1,5 @@
 # Intentionally outdated direct dependencies for SCA scanner fixtures.
 Flask==0.12.2
-pyyaml==5.2
+pyyaml==5.4
 requests==2.19.1
 certifi==2026.10.19
